@@ -1,0 +1,8 @@
+{
+  "short_name": "Trawewll Buddy",
+  "name": "Trawell Buddy",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
